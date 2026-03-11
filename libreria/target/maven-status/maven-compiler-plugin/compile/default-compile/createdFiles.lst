@@ -1,0 +1,15 @@
+cl\td\dao\LibroDAO.class
+cl\td\service\UsuarioService.class
+cl\td\dto\Usuario.class
+cl\td\servlet\PrestamoServlet.class
+cl\td\servlet\LogoutServlet.class
+cl\td\servlet\LibroServlet.class
+cl\td\servlet\UsuarioServlet.class
+cl\td\dto\Libro.class
+cl\td\servlet\LoginServlet.class
+cl\td\dao\PrestamoDAO.class
+cl\td\dto\Prestamo.class
+cl\td\config\DatabaseConnection.class
+cl\td\service\LibroService.class
+cl\td\dao\UsuarioDAO.class
+cl\td\service\PrestamoService.class
